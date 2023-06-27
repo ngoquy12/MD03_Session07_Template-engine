@@ -1,0 +1,12 @@
+<!-- Cú pháp để in ra biến: <%= variable_name %> -->
+<!-- Cú pháp để sử dụng vòng lặp: <% loop %> -->
+<!-- Lưu ý: Mỗi dòng sẽ bắt đầu và kết thức bằng dấu <% %> -->
+<!-- Cú pháp sử dụng cấu trúc điều khiển: <% điều kiện %> -->
+<!-- Cú pháp import các file lại với nhau : <%- include(url) %> -->
+
+Bài tập: Viết một chương trình CRUD danh sách users gồm 5 user:
+1. Hiển thị thông tin tất cả user( dạng bảng)
+2. Hiển thị thông tin user theo id
+3. Thêm mới user
+4. Edit user theo id
+5. Xóa thông tin một user theo id
